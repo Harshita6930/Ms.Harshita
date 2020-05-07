@@ -1,0 +1,133 @@
+body{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    font-family: Century Gothic;
+    color: #40514E;
+}
+h1{
+    font-size: 50px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #66BFBF;
+    font-size: 5em;
+    margin: 00px auto 10px auto;    
+}
+h2{
+    color: #11999E;  
+}
+.my-skill{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+hr{
+    margin-top: 30px;
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 5%;
+    border-color: #b4b4b4;
+}
+.bod{
+    background-color: white;
+}
+a{
+    font-family: Century Gothic;
+    color: #11999E;
+    margin: 0px 20px 0 20px;
+    text-decoration: none;
+}
+a:visited{
+    color: #11999E;
+    text-decoration: none;
+}
+.btn{
+    background: #00a1ab;
+    border-radius: 10px;
+    font-family: Century Gothic;
+    font-size: 15px;
+    padding: 5px 20px 5px 20px;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+}
+a.btn:hover{
+    background: #58b4ae;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #40514E;
+}
+.hello{
+    width: 30%;
+    margin: auto auto 10px auto;    
+    color: #40514E;
+}
+p{
+    line-height: 2;
+}
+p.sub{
+    color: #66BFBF;
+}
+.cloud-up{
+position: relative;
+left: 200px;
+}
+.cloud-down{
+position: absolute;
+}
+.sp
+{
+    text-decoration: underline;
+}
+.skill-row{
+    width: 50%;
+    margin: 60px auto 100px auto;
+    text-align: left;
+}
+.pro-pic{
+   height: 150px;
+    width: 150px;
+}
+.manage-img{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.communicate-img{
+width: 25%;
+float: right; 
+margin-right: 30px;
+}
+.contact-img{
+    height: 100px;
+width: 100px;
+}
+.profile{
+    background-color: white;
+}
+.skills{
+ margin-top: 50px;
+}
+div.topcontainer{
+    background-color: #d7fffd;
+     /*background-color: #EAF6F6;*/
+    position: relative;
+    padding-top: 30px;
+    line-height: 2;
+}
+div.bottom-container{
+    background-color: #d7fffd;
+    padding: 20px 00px 5px 0px;
+}
+.copy{
+    color: #58b4ae;
+}
